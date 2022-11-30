@@ -7,6 +7,23 @@ export const Buscador = () => {
                 <form>
                     <input type="text"/>
                     <button>Buscar</button>
+
+                    <input type="text"/>
+                    <button>Buscar</button>
+
+                    <input type="text"/>
+                    <button>Buscar</button>
+                </form>
+
+                <form>
+                    <input type="text"/>
+                    <button>Buscar</button>
+
+                    <input type="text"/>
+                    <button>Buscar</button>
+
+                    <input type="text"/>
+                    <button>Buscar</button>
                 </form>
             </div>
   )
